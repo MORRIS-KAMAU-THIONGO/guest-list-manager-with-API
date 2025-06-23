@@ -1,1 +1,3 @@
 # guest-list-manager-with-API
+#DESCRIPTION
+The Guest List Manager is a web-based application that allows users to efficiently create, view, update, and manage event guest lists in real-time. Designed with simplicity and usability in mind, the application enables event organizers to track their attendees, categorize them (e.g., Family, Friends, Colleagues, VIPs), and monitor RSVP status with ease. Users can add guests through a form, view the full guest list, toggle RSVP status, and remove guests as needed. The project utilizes JavaScript to dynamically manipulate the DOM and fetch data from an external API (such as JSONPlaceholder or a local JSON Server) to simulate real-world data management
